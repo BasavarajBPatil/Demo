@@ -5,7 +5,6 @@ public class Test2 {
 	{
 		System.out.println("simple statement added");
 		System.out.println("second line added");
-		System.out.println("third line added");
 	}
 
 }
